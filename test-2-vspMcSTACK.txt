@@ -1,0 +1,7 @@
+# test-2-vspMcSTACK: 4x4
+M
+4
+..oo
+oo#@
+#..o
+$#..

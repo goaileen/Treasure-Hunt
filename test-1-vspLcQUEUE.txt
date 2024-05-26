@@ -1,0 +1,14 @@
+# test-1-vspLcQUEUE Map: 7x7
+# bleh
+#ahh
+#xd
+M
+7
+.oo..#$
+.....#.
+#..oooo
+#.oo##.
+.....#.
+@oo##..
+o.ooo..
+

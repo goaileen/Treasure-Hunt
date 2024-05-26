@@ -1,0 +1,13 @@
+# test-3-vspLfQUEUEoSNEW: 10x10
+M
+10
+o...o.##o#
+oo.##o##o.
+o##o#o.#.#
+..@#oo.#oo
+#..ooo##o.
+.#oo.o#.##
+....##.#$.
+o##o.o.o#.
+ooo#..#..o
+oo#o#oo#..

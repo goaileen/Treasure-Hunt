@@ -1,0 +1,9 @@
+# test-4-vspMfSTACKcQUEUEoEWNS: 6x6
+M
+6
+.oo.#o
+..o#..
+#..##.
+$#@.oo
+o#.o.o
+...ooo

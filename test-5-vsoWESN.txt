@@ -1,0 +1,11 @@
+# test-5-vsoWESN: 8x8
+M
+8
+oo.o...o
+.oo.oo.o
+.o$oo###
+..@oo.#.
+.#.#oo.#
+..o.#.#o
+.oo#...#
+ooo#..o.
